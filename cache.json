@@ -1,0 +1,28 @@
+{
+    "hashes": {
+        "checkpoint/SD15NewVAEpruned.ckpt": {
+            "mtime": 1676296625.596094,
+            "sha256": "27a4ac756c5c4fb25bfb7bd32a700a89fe77a66926338b1d78b97e25e1e85f75"
+        },
+        "checkpoint/dreamlike-diffusion-1.0.ckpt": {
+            "mtime": 1676299440.2906034,
+            "sha256": "0aecbcfa2cbe01bb44f7c0e4f413022ab25b35057b85507d55ba15e2d5db35da"
+        },
+        "checkpoint/arcaneStyleLora_v1.safetensors": {
+            "mtime": 1676301293.7883642,
+            "sha256": "f15429d21c6b54b32577be32dfeeba7f7ff13cb4585432e59fe20d88d83c1c51"
+        },
+        "checkpoint/deliberate_v11.safetensors": {
+            "mtime": 1676335751.984054,
+            "sha256": "d8691b4d16fb59aea959db797350016e24008d59de8d5a960ff7b1cec1fbc11c"
+        },
+        "checkpoint/cheeseDaddys_35.safetensors": {
+            "mtime": 1676507554.8464086,
+            "sha256": "98084dd1dba8b5683d5b02a866d1ddb8991f3e463719326e202cfb05a5cd3eca"
+        },
+        "checkpoint/realisticVisionV13_v13.safetensors": {
+            "mtime": 1676508432.0801818,
+            "sha256": "c35782bad87a6c8d461fa88861d9ee6974d7a16cc19014bfaf89f586dd42ca63"
+        }
+    }
+}

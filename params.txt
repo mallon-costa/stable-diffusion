@@ -1,0 +1,2 @@
+soccer ball
+Steps: 50, Sampler: Euler, CFG scale: 7.0, Seed: 783238277, Size: 512x512, Model hash: c35782bad8, Model: realisticVisionV13_v13, Seed resize from: -1x-1, Denoising strength: 0
